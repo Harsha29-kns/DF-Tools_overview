@@ -41,10 +41,9 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 - Open **Recoverit** on your computer.  
 - Choose **Data Recovery** from the main menu.  
 
-<details>
-<summary>View Screenshot / Animation</summary>
+
 <img src="../assets/rec1.png" alt="Recoverit Launch" width="600">
-</details>
+
 
 ---
 
@@ -61,10 +60,9 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 
 - Select the appropriate mode and click **Start**. ⚡
 
-<details>
-<summary>View Screenshot / Animation</summary>
+
 <img src="../assets/rec2.png" alt="Select Recovery Mode" width="600">
-</details>
+
 
 ---
 
@@ -80,10 +78,9 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 - If files are not found, select **Deep Scan** for thorough recovery.  
 - Progress bar animation indicates scanning status.  
 
-<details>
-<summary>View Screenshot / Animation</summary>
+
 <img src="../assets/rec4.png" alt="Scan Progress Animation" width="600">
-</details>
+
 
 ---
 
@@ -92,10 +89,9 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 - Use **Preview** to check the files before recovery.  
 - Filter by **Type** or **File Size** for easier navigation. 🔍
 
-<details>
-<summary>View Screenshot / Animation</summary>
+
 <img src="../assets/rec3.png" alt="Preview Files Animation" width="600">
-</details>
+
 
 ---
 
