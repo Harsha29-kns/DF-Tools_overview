@@ -45,7 +45,8 @@ It is part of the **Open Source Android Forensics** toolkit and often used in fo
    C:\ForensicLab\platform-tools
    ```
 3. Click **OK** to save changes.
-<img width="1388" alt="image" src="../assets/exp7.1.png" />
+<img width="1113" height="768" alt="exp7 1" src="https://github.com/user-attachments/assets/3c9caa2a-892a-42f7-ab8d-26be25612725" />
+
 
 ✅ **Verify installation:**
 ```bash
@@ -55,7 +56,8 @@ You should see something like:
 ```
 Android Debug Bridge version 1.0.41
 ```
-<img width="1388" alt="image" src="../assets/exp7.2.png" />
+<img width="991" height="138" alt="exp7 2" src="https://github.com/user-attachments/assets/35f823c0-1f74-4fbd-9025-95448ed51565" />
+
 ---
 
 ## ⚙️ STEP 3 — Install Google USB Driver (Windows)
@@ -78,7 +80,8 @@ adb devices
 ```
 If your phone appears in the list, the driver works.
 
-<img width="1388" alt="image" src="../assets/exp7.3.png" />
+<img width="493" height="101" alt="exp7 3" src="https://github.com/user-attachments/assets/91892dd4-1f3f-40f1-8a1b-d7501aa8c0ed" />
+
 ---
 
 ## ⚙️ STEP 4 — Enable Developer Options on the Phone
@@ -139,7 +142,8 @@ If it shows *unauthorized*, replug and allow access again.
    ```
    Success
    ```
-   <img width="1388" alt="image" src="../assets/exp7.4.png" />
+  <img width="1471" height="573" alt="exp7 4" src="https://github.com/user-attachments/assets/f3373ba5-8f5b-465b-af1a-b24f926fe57d" />
+
 
 ✅ **Verification:** Check your phone — the **AFLogical** app should now appear in your app list.
 
@@ -191,7 +195,8 @@ calllog.csv
 ```bash
 adb pull /sdcard/aflogical C:\ForensicLab\output
 ```
-<img width="1388" alt="image" src="../assets/exp7.5.png" />
+<img width="1454" height="201" alt="exp7 5" src="https://github.com/user-attachments/assets/0374c786-9013-4a16-867b-3a6cdf5c9ce8" />
+
 
 ✅ This copies the folder from your phone to:
 ```
@@ -211,7 +216,8 @@ calllog.csv
 mms.csv
 calendar.csv
 ```
-<img width="1388" alt="image" src="../assets/exp7.6.png" />
+<img width="878" height="363" alt="exp7 6" src="https://github.com/user-attachments/assets/b5483351-873c-47c8-9397-3af15a4f699a" />
+
 ---
 
 ## 🧠 (Optional) STEP 9 — Verify Integrity (Hash Values)
@@ -227,7 +233,8 @@ Get-FileHash "C:\Users\knsha\Downloads\ForensicLab\output\20251026.1721\Contacts
 ```bash
 sha256sum ~/ForensicLab/output/contacts.csv
 ```
-<img width="1388" alt="image" src="../assets/exp7.7.png" />
+<img width="1828" height="198" alt="exp7 7" src="https://github.com/user-attachments/assets/be2fb3fc-02b9-4388-ad71-1e8bf8297dbb" />
+
 Record the hash in your report.
 
 ---
