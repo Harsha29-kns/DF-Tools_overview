@@ -82,7 +82,8 @@ Compile the Java files with the required dependency:
 javac -cp commons-math3-3.1.1.jar -source 1.8 -target 1.8 *.java
 ```
 
-<img width="1388" alt="Compilation Screenshot" src="../assets/exp8.1.png" />
+<img width="1454" height="274" alt="exp8 1" src="https://github.com/user-attachments/assets/1a4ef1c8-ddde-4e30-b4d3-5d0b2d488b56" />
+
 
 💡 Note: Ignore warnings like `RSAnalysis.java uses unchecked or unsafe operations`. Compilation is successful if `.class` files are generated.
 
@@ -95,7 +96,8 @@ Create a file named `manifest.mf` in the same folder:
 ```
 Main-Class: StegExpose
 ```
-<img width="1388" alt="JAR Creation Screenshot" src="../assets/exp8.4.png" />
+<img width="894" height="718" alt="exp8 4" src="https://github.com/user-attachments/assets/dcebf216-9a39-4b63-a93f-58a2a15371d4" />
+
 
 Build the JAR:
 
@@ -103,7 +105,8 @@ Build the JAR:
 jar cfm StegExpose.jar manifest.mf *.class
 ```
 
-<img width="1388"  alt="JAR Creation Screenshot" src="../assets/exp8.2.png" />
+<img width="1291" height="49" alt="exp8 2" src="https://github.com/user-attachments/assets/37548ccd-8ba3-4699-beee-df020b309232" />
+
 
 ✅ You now have `StegExpose.jar` ready to use.
 
@@ -119,7 +122,8 @@ java -jar StegExpose.jar "C:\Users\knsha\Downloads\StegExpose-master\StegExpose-
 
 ## 📊 Step 4 — Example Output
 
-<img width="1388" alt="Example Output Screenshot" src="../assets/exp8.3.png" />
+<img width="1451" height="134" alt="exp8 3" src="https://github.com/user-attachments/assets/3b2c4e01-d2ea-4793-b321-72b755582041" />
+
 
 | Hidden Bytes   | Meaning                             |
 | -------------- | ----------------------------------- |
@@ -148,10 +152,12 @@ Generate a results file for easier review:
 java -jar StegExpose.jar "C:\Users\knsha\Downloads\StegExpose-master\StegExpose-master\testFolder" fast 0.3 results.csv
 
 ```
-<img width="1388" alt="Example Output Screenshot" src="../assets/exp8.6.png" />
+<img width="1458" height="233" alt="exp8 6" src="https://github.com/user-attachments/assets/ceed7805-db8f-4ba4-8cf6-2542eb29c8f0" />
+
 
 ---
-<img width="1388" alt="Example Output Screenshot" src="../assets/exp8.7.png" />
+<img width="1860" height="595" alt="exp8 7" src="https://github.com/user-attachments/assets/bef42a3d-3390-4709-a5f6-41339d2065e5" />
+
 ## 🏁 Conclusion
 
 * ✅ Successfully compiled and executed StegExpose
