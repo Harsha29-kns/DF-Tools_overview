@@ -160,8 +160,8 @@ java -jar StegExpose.jar "C:\Users\knsha\Downloads\StegExpose-master\StegExpose-
 
 ## 🏁 Result
 
-* ✅ Successfully compiled and executed StegExpose
-* ✅ Detected images containing potential hidden data
-* ✅ Interpreted results and exported findings
+* Successfully compiled and executed StegExpose
+* Detected images containing potential hidden data
+* Interpreted results and exported findings
 
 Hidden data in image files was successfully detected using StegExpose.
