@@ -28,7 +28,8 @@ Steps to capture RAM using FTK Imager:
 ### Step 2: Initiate Memory Capture
 - Click **File → Capture Memory...**
 
-<img src="../assets/ftk1.png" alt="FTK Imager Memory Capture" width="600" alt="Memory Capture Animation" width="600">
+<img width="1920" height="1080" alt="ftk1" src="https://github.com/user-attachments/assets/e264b657-58d9-478a-a464-25f5aacb8b18" />
+
 
 ---
 
@@ -38,10 +39,9 @@ Steps to capture RAM using FTK Imager:
 - **Include pagefile.sys:** Optional but recommended.  
 - **Create AD1 file:** Optional container.
 
-<details>
-<summary>View Screenshot</summary>
-<img src="../assets/ftk2.png" alt="Memory Destination" width="600">
-</details>
+
+<img width="1920" height="1080" alt="ftk2" src="https://github.com/user-attachments/assets/9c49d359-253d-43e4-bfaa-46cc8056d574" />
+
 
 ---
 
@@ -49,7 +49,8 @@ Steps to capture RAM using FTK Imager:
 - Click **Capture Memory** button to start.  
 - ⏳ Progress depends on RAM size.
 
-<img src="../assets/ftk4.png" alt="Start Capture Animation" width="600">
+<img width="1920" height="1080" alt="ftk4" src="https://github.com/user-attachments/assets/61c5dce1-a434-4457-bea9-ac5fef54b463" />
+
 
 ---
 ### 5. Wait for Completion
@@ -64,7 +65,8 @@ Steps to capture RAM using FTK Imager:
 ### Step 1: Start the Process
 - Go to **File → Create Disk Image...**  
 
-<img src="../assets/ftk6.png" alt="Create Disk Image" width="600">
+<img width="1920" height="1080" alt="ftk6" src="https://github.com/user-attachments/assets/7fbd0f1b-802e-4348-8f70-c8bb8347165a" />
+
 
 ---
 
@@ -81,7 +83,8 @@ Steps to capture RAM using FTK Imager:
 ### Step 3: Select Source Drive
 - Connect via **write-blocker** → select drive → **Finish**
 
-<img src="../assets/ftk5.png" alt="Select Source" width="600">
+<img width="1920" height="1080" alt="ftk5" src="https://github.com/user-attachments/assets/dba8ef2c-2fdd-41c0-b2e5-e913b09d6a6e" />
+
 
 ---
 
@@ -97,10 +100,9 @@ Steps to capture RAM using FTK Imager:
 - Fill in **Evidence Info**: Case details, examiner name, description.  
 - **Image Fragment Size:** Set 0 for single file.
 
-<details>
-<summary>View Screenshot</summary>
-<img src="../assets/ftk7.png" alt="Disk Destination" width="600">
-</details>
+
+<img width="1920" height="1080" alt="ftk7" src="https://github.com/user-attachments/assets/d0217634-fc9e-4695-8f2e-30dff1dff6c2" />
+
 
 ---
 
@@ -108,7 +110,8 @@ Steps to capture RAM using FTK Imager:
 - Click **Finish**, check **Verify images after creation**, click **Start**  
 - ⏳ Time depends on drive size.
 
-<img src="../assets/ftk8.png" alt="Disk Imaging Animation" width="600">
+<img width="1920" height="1080" alt="ftk8" src="https://github.com/user-attachments/assets/7f094962-0ff4-4b4e-836f-68fe47732ace" />
+
 
 ---
 
