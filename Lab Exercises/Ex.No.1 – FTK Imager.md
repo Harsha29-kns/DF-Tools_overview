@@ -19,7 +19,7 @@ Steps to capture RAM using FTK Imager:
 ### Step 1: Run as Administrator
 - Open **FTK Imager** with administrative privileges.  
 - Right-click the icon → **Run as administrator**  
-📁 **Tip:** Always run as admin to avoid permission issues.
+   **Tip:** Always run as admin to avoid permission issues.
 
 <img src="https://github.com/user-attachments/assets/739f9871-3976-41c3-be50-b8a8da805b63" alt="FTK Imager Memory Capture" width="600">
 
@@ -28,7 +28,7 @@ Steps to capture RAM using FTK Imager:
 ### Step 2: Initiate Memory Capture
 - Click **File → Capture Memory...**
 
-<img width="1920" height="1080" alt="ftk1" src="https://github.com/user-attachments/assets/e264b657-58d9-478a-a464-25f5aacb8b18" />
+<img width="600" alt="ftk1" src="https://github.com/user-attachments/assets/e264b657-58d9-478a-a464-25f5aacb8b18" />
 
 
 ---
@@ -40,16 +40,16 @@ Steps to capture RAM using FTK Imager:
 - **Create AD1 file:** Optional container.
 
 
-<img width="1920" height="1080" alt="ftk2" src="https://github.com/user-attachments/assets/9c49d359-253d-43e4-bfaa-46cc8056d574" />
+<img width="600" alt="ftk2" src="https://github.com/user-attachments/assets/9c49d359-253d-43e4-bfaa-46cc8056d574" />
 
 
 ---
 
 ### Step 4: Start Capture
 - Click **Capture Memory** button to start.  
-- ⏳ Progress depends on RAM size.
+- Progress depends on RAM size.
 
-<img width="1920" height="1080" alt="ftk4" src="https://github.com/user-attachments/assets/61c5dce1-a434-4457-bea9-ac5fef54b463" />
+<img width="600" alt="ftk4" src="https://github.com/user-attachments/assets/61c5dce1-a434-4457-bea9-ac5fef54b463" />
 
 
 ---
@@ -65,7 +65,7 @@ Steps to capture RAM using FTK Imager:
 ### Step 1: Start the Process
 - Go to **File → Create Disk Image...**  
 
-<img width="1920" height="1080" alt="ftk6" src="https://github.com/user-attachments/assets/7fbd0f1b-802e-4348-8f70-c8bb8347165a" />
+<img width="600" alt="ftk6" src="https://github.com/user-attachments/assets/7fbd0f1b-802e-4348-8f70-c8bb8347165a" />
 
 
 ---
@@ -83,7 +83,7 @@ Steps to capture RAM using FTK Imager:
 ### Step 3: Select Source Drive
 - Connect via **write-blocker** → select drive → **Finish**
 
-<img width="1920" height="1080" alt="ftk5" src="https://github.com/user-attachments/assets/dba8ef2c-2fdd-41c0-b2e5-e913b09d6a6e" />
+<img width="600" alt="ftk5" src="https://github.com/user-attachments/assets/dba8ef2c-2fdd-41c0-b2e5-e913b09d6a6e" />
 
 
 ---
@@ -101,30 +101,30 @@ Steps to capture RAM using FTK Imager:
 - **Image Fragment Size:** Set 0 for single file.
 
 
-<img width="1920" height="1080" alt="ftk7" src="https://github.com/user-attachments/assets/d0217634-fc9e-4695-8f2e-30dff1dff6c2" />
+<img width="600" alt="ftk7" src="https://github.com/user-attachments/assets/d0217634-fc9e-4695-8f2e-30dff1dff6c2" />
 
 
 ---
 
 ### Step 5: Start Imaging
 - Click **Finish**, check **Verify images after creation**, click **Start**  
-- ⏳ Time depends on drive size.
+- Time depends on drive size.
 
-<img width="1920" height="1080" alt="ftk8" src="https://github.com/user-attachments/assets/7f094962-0ff4-4b4e-836f-68fe47732ace" />
+<img width="600" alt="ftk8" src="https://github.com/user-attachments/assets/7f094962-0ff4-4b4e-836f-68fe47732ace" />
 
 
 ---
 
 ### Step 6: Completion and Hash Verification
 - FTK Imager shows **MD5** and **SHA1** for source & image  
-- ✅ Matching hashes confirm integrity.
+- Matching hashes confirm integrity.
 <img src="https://github.com/user-attachments/assets/739045f1-11bc-474a-9343-2e9aa19ec376" alt="Disk Imaging Animation" width="600">
 ---
 
 ## Notes
-> ⚠ Always use a **write-blocker**  
-> ✅ Hash verification ensures chain-of-custody  
-> 📁 Image fragmentation helps with large drives  
+> Always use a **write-blocker**  
+> Hash verification ensures chain-of-custody  
+> Image fragmentation helps with large drives  
 
 ---
 
