@@ -12,13 +12,15 @@
 - Select the interface your computer is using to connect to the internet (in this case, Wi-Fi).
 
   <p align="center">
- <img src="../assets/wir1.png" alt="Select Recovery Mode" width="600" height="400">
+<img width="955" height="1014" alt="wir1" src="https://github.com/user-attachments/assets/5575724f-63de-43f4-837a-e531e1c8ae47" />
+
   </p>
 
 - Click the blue shark fin icon 🦈 in the top-left corner to start the capture. Wireshark will immediately begin capturing all traffic passing through that interface.
 
   <p align="center">
-  <img width="600" height="400" alt="image" src="../assets/wir4.png" />
+  <img width="951" height="908" alt="wir4" src="https://github.com/user-attachments/assets/024e4e8a-114f-4763-8b93-1ac52f366260" />
+
  </p>
 
 ---
@@ -35,7 +37,8 @@
 - Click the login button. The login will fail, but the data has already been sent across the network.
 
   <p align="center">
-<img width="600" height="400" alt="image" src="../assets/wir2.png" />
+<img width="1893" height="886" alt="wir2" src="https://github.com/user-attachments/assets/113dfb32-aa7d-4928-bacd-9e5f4964d479" />
+
  </p>
 
 ---
@@ -49,7 +52,8 @@
 - Apply the following filter to find the exact packet and press Enter:
 
   <p align="center">
-<img width="600" height="400" alt="image" src="../assets/wir6.png" />
+<img width="954" height="304" alt="wir6" src="https://github.com/user-attachments/assets/cb0d3a05-8285-4f98-8c67-0bf8f402ded0" />
+
  </p>
 
 ---
@@ -66,7 +70,8 @@
 - Inside the "HTML Form URL Encoded" section, you will see the credentials you entered in plaintext.
 
   <p align="center">
-  <img width="600" height="400" alt="image" src="../assets/wir3.png" />
+  <img width="870" height="624" alt="wir3" src="https://github.com/user-attachments/assets/0ac2527b-5fbf-4b10-bbc3-c230c3147777" />
+
  </p>
 
 ---
