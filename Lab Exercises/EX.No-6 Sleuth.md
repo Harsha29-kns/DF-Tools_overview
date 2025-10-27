@@ -55,7 +55,8 @@ Now let’s dive into Sleuth Kit tools 🧠 to inspect the file system.
 cd "C:\Program Files (x86)\sleuthkit-4.14.0-win32\bin"
 ```
 📸  
-<img width="500"  alt="image" src="../assets/ex6.1.png" />
+<img width="1919" height="757" alt="ex6 1" src="https://github.com/user-attachments/assets/78fdf520-4377-4558-9f0d-aae6a45e4920" />
+
 
 ---
 
@@ -64,8 +65,9 @@ cd "C:\Program Files (x86)\sleuthkit-4.14.0-win32\bin"
 ```bash
 .\fsstat.exe -o 63 "C:\Users\knsha\Downloads\4Dell Latitude CPi.E01" 
 ```
-🧾  
-<img width="1911"  alt="image" src="../assets/exp6.2.png" />
+🧾 
+<img width="1713" height="977" alt="exp6 2" src="https://github.com/user-attachments/assets/8138eb98-c97b-4950-a0b8-f148a0f06875" />
+
 
 💡 *Displays key details about the file system type and structure.*
 
@@ -77,7 +79,8 @@ cd "C:\Program Files (x86)\sleuthkit-4.14.0-win32\bin"
 .\mmls.exe "C:\Users\knsha\Downloads\4Dell Latitude CPi.E01"
 ```
 📊  
-<img width="1372" alt="image" src="../assets/exp6.3.png" />
+<img width="1697" height="243" alt="exp6 3" src="https://github.com/user-attachments/assets/a2cf7fdb-4bd9-48a5-8146-8fc13dcb803e" />
+
 
 ➡️ *Lists all partitions and their respective start/end addresses.*
 
@@ -89,7 +92,8 @@ cd "C:\Program Files (x86)\sleuthkit-4.14.0-win32\bin"
 .\fls.exe -o 63 "C:\Users\knsha\Downloads\4Dell Latitude CPi.E01" 
 ```
 🧾  
-<img width="1920" alt="image" src="../assets/exp6.4.png" />
+<img width="1672" height="952" alt="exp6 4" src="https://github.com/user-attachments/assets/1f48a2d3-cc3f-434c-9bdb-fe811d6bab69" />
+
 
 🔸 *Recursively lists files and folders with their inode details.*
 
@@ -101,7 +105,8 @@ cd "C:\Program Files (x86)\sleuthkit-4.14.0-win32\bin"
 .\icat.exe -o 63 "C:\Users\knsha\Downloads\4Dell Latitude CPi.E01" 119 > "C:\Users\knsha\Downloads\BOOTLOG_recovered.TXT"
 ```
 🖼️  
-<img width="1388" alt="image" src="../assets/exp6.4.png" />
+<img width="1672" height="952" alt="exp6 4" src="https://github.com/user-attachments/assets/20c3d0b7-818a-49b2-9372-2d1d4af2cb66" />
+
 
 💾 *Recovers a deleted or existing file by its inode number.*
 
@@ -115,7 +120,8 @@ To uncover file history and access details, view the file’s metadata.
 .\istat.exe -o 63 "C:\Users\knsha\Downloads\4Dell Latitude CPi.E01" 119 > "C:\Users\knsha\Downloads\BOOTLOG_recovered.TXT" 
 ```
 🧠  
-<img width="1388" alt="image" src="../assets/exp6.5.png" />
+<img width="638" height="598" alt="exp6 5" src="https://github.com/user-attachments/assets/b7a39fb7-e091-4e1f-939d-a7b5bcc579aa" />
+
 
 📘 *Displays file attributes such as MAC times (Modified, Accessed, Changed), size, and allocation info.*
 
