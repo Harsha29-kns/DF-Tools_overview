@@ -146,7 +146,7 @@ Ensuring the integrity of evidence is the final and most important step 🧳.
 
 ---
 
-## ✅ **Conclusion**
+## ✅ **Result**
 
 Using the **Sleuth Kit (TSK)**, investigators can efficiently extract, analyze, and preserve digital evidence 💾.  
 It remains one of the most reliable and open-source forensic toolkits for digital investigation 🚔.
