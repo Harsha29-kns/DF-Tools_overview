@@ -14,7 +14,8 @@
 * **Run as Administrator:**  
   Open the folder and launch `procexp64.exe` or `procexp.exe` by right-clicking and selecting **Run as Administrator**. 🛡️
 
-<img width="1388" alt="Compilation Screenshot" src="../assets/exp9.1.png" />
+<img width="1728" height="825" alt="exp9 1" src="https://github.com/user-attachments/assets/5bd08614-4b89-491e-a129-c632a04a1fc7" />
+
 ---
 
 ### Step 2: Explore the Interface 🖱️
@@ -49,7 +50,8 @@ To investigate potentially harmful processes:
    Right-click → **Properties** → **TCP/IP** tab. Unexpected external connections require attention. 🌐
 
 ---
-<img width="1388" alt="Compilation Screenshot" src="../assets/exp9.2.png" />
+<img width="1001" height="769" alt="exp9 2" src="https://github.com/user-attachments/assets/76a7a32d-f443-46d1-884d-6d7ee2a9ff61" />
+
 
 ### Step 4: Research Suspicious Processes 🔎
 
@@ -57,7 +59,8 @@ To investigate potentially harmful processes:
 * Use databases like **VirusTotal** or **ProcessLibrary** to check for known malware. 🦠
 
 
-<img width="1388" alt="Compilation Screenshot" src="../assets/exp9.3.png" />
+<img width="942" height="236" alt="exp9 3" src="https://github.com/user-attachments/assets/eef07612-3666-4b6f-a7ee-1f9b8f317cd2" />
+
 ---
 
 ### Step 5: Handle Malicious or Unwanted Processes 🛠️
@@ -67,7 +70,8 @@ To investigate potentially harmful processes:
 * **Delete Source:** Locate the executable via its Path and remove it if confirmed malicious. 🗑️
 
 ---
-<img width="1388" alt="Compilation Screenshot" src="../assets/exp9.4.png" />
+<img width="966" height="746" alt="exp9 4" src="https://github.com/user-attachments/assets/10ed62ff-f7f2-4156-b693-c4cc3d50b4d2" />
+
 ---
 
 ### Step 6: Conduct a Full System Scan 🧹
