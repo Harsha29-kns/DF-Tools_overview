@@ -42,7 +42,8 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 - Choose **Data Recovery** from the main menu.  
 
 
-<img src="../assets/rec1.png" alt="Recoverit Launch" width="600">
+<img width="1134" height="776" alt="rec1" src="https://github.com/user-attachments/assets/9965509a-d6f0-43cd-a2b8-f8a62e65f865" />
+
 
 
 ---
@@ -61,7 +62,8 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 - Select the appropriate mode and click **Start**. ⚡
 
 
-<img src="../assets/rec2.png" alt="Select Recovery Mode" width="600">
+<img width="1920" height="1080" alt="rec2" src="https://github.com/user-attachments/assets/53833863-4f41-4264-b0ee-187a7075f9d2" />
+
 
 
 ---
@@ -79,7 +81,8 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 - Progress bar animation indicates scanning status.  
 
 
-<img src="../assets/rec4.png" alt="Scan Progress Animation" width="600">
+<img width="1920" height="1080" alt="rec4" src="https://github.com/user-attachments/assets/9f556df8-f212-4704-884a-e8d141070664" />
+
 
 
 ---
@@ -90,7 +93,8 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 - Filter by **Type** or **File Size** for easier navigation. 🔍
 
 
-<img src="../assets/rec3.png" alt="Preview Files Animation" width="600">
+<img width="1920" height="1080" alt="rec3" src="https://github.com/user-attachments/assets/c691f215-d432-4dff-b6bf-00da8bf1845e" />
+
 
 
 ---
