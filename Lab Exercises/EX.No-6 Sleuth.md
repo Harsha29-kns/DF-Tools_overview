@@ -1,10 +1,7 @@
 #  **Experiment No. 06 — Digital Forensic Analysis using Sleuth Kit (TSK)**
 
-##  **Overview**
-
-The **Sleuth Kit (TSK)**  is a versatile suite of command-line tools used in **digital forensics**.  
-It enables investigators to analyze disk images , uncover deleted files , and extract critical digital evidence from storage devices.  
-This document walks through the complete process of using Sleuth Kit on a **Windows** system to perform forensic analysis.
+##  Aim
+To perform **digital forensic analysis** on a disk image using the **Sleuth Kit (TSK)** by examining file systems, recovering deleted files, analyzing metadata, and preserving evidence for investigation.
 
 ---
 
