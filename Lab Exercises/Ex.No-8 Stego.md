@@ -7,15 +7,6 @@
 To detect hidden data in image files using **StegExpose**, a steganography analysis tool.
 
 ---
-
-##  Description
-
-**StegExpose** is a Java-based forensic tool that identifies potential hidden data in images. It analyzes the **statistical properties** of image files to estimate a “suspect score,” helping investigators determine whether steganography is likely present.
-
-The higher the suspect score, the more probable it is that hidden data exists.
-
----
-
 ##  Prerequisites
 
 Before starting, ensure the following software and files are prepared:
@@ -29,19 +20,6 @@ Before starting, ensure the following software and files are prepared:
 
    ```bash
    choco install openjdk
-   ```
-
-   **Ubuntu/Linux:**
-
-   ```bash
-   sudo apt update
-   sudo apt install default-jdk
-   ```
-
-   **macOS:**
-
-   ```bash
-   brew install openjdk
    ```
 
     Verify installation:
