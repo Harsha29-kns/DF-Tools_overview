@@ -158,7 +158,7 @@ java -jar StegExpose.jar "C:\Users\knsha\Downloads\StegExpose-master\StegExpose-
 ---
 <img width="600" alt="exp8 7" src="https://github.com/user-attachments/assets/bef42a3d-3390-4709-a5f6-41339d2065e5" />
 
-## 🏁 Result
+## Result
 
 * Successfully compiled and executed StegExpose
 * Detected images containing potential hidden data
