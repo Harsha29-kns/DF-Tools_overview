@@ -2,7 +2,9 @@
 
 #   Ex.No.3   Wireshark – Network Packet Capture and Analysis Tool<br>
 
-Website Used: [http://demo.testfire.net/](http://demo.testfire.net/)
+## Aim
+To capture and analyze network traffic with **Wireshark** and demonstrate how plaintext credentials submitted over **HTTP** can be intercepted from an HTTP POST request.
+
 ## Procedure: Capturing Plaintext Passwords
 
 ### Step 1: Start Capturing Packets
