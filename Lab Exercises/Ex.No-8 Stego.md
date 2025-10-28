@@ -74,7 +74,7 @@ Create a file named `manifest.mf` in the same folder:
 ```
 Main-Class: StegExpose
 ```
-<img width="600" alt="exp8 4" src="https://github.com/user-attachments/assets/dcebf216-9a39-4b63-a93f-58a2a15371d4" />
+<img width="400" alt="exp8 4" src="https://github.com/user-attachments/assets/dcebf216-9a39-4b63-a93f-58a2a15371d4" />
 
 
 Build the JAR:
