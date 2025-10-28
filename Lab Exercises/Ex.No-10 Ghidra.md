@@ -7,12 +7,6 @@ To perform static analysis of a suspicious binary file using **Ghidra**, underst
 
 ---
 
-## Objectives
-- To explore how malware can be disassembled and examined in a secure environment using **Ghidra**.  
-- To identify and understand core malicious functionalities such as **persistence**, **obfuscation**, and **network activity**.  
-- To learn how to navigate assembly code, rename functions, and interpret the high-level decompiled view to reveal hidden behaviors.
-
----
 
 ## Requirements
 Before starting, ensure you have:
