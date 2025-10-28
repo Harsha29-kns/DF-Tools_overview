@@ -4,6 +4,7 @@
 To extract logical data such as contacts, SMS, and call logs from an Android device using **AFLogical OSE** and analyze the collected evidence for forensic purposes.
 
 ---
+## Procedure
 
 ## STEP 1 — Extract All ZIP Files
 
@@ -43,7 +44,7 @@ To extract logical data such as contacts, SMS, and call logs from an Android dev
    C:\ForensicLab\platform-tools
    ```
 3. Click **OK** to save changes.
-<img width="1113" height="768" alt="exp7 1" src="https://github.com/user-attachments/assets/3c9caa2a-892a-42f7-ab8d-26be25612725" />
+<img width="600" alt="exp7 1" src="https://github.com/user-attachments/assets/3c9caa2a-892a-42f7-ab8d-26be25612725" />
 
 
  **Verify installation:**
@@ -54,7 +55,7 @@ You should see something like:
 ```
 Android Debug Bridge version 1.0.41
 ```
-<img width="991" height="138" alt="exp7 2" src="https://github.com/user-attachments/assets/35f823c0-1f74-4fbd-9025-95448ed51565" />
+<img width="600" alt="exp7 2" src="https://github.com/user-attachments/assets/35f823c0-1f74-4fbd-9025-95448ed51565" />
 
 ---
 
@@ -218,7 +219,7 @@ calendar.csv
 
 ---
 
-##  (Optional) STEP 9 — Verify Integrity (Hash Values)
+##   STEP 9 — Verify Integrity
 
 To maintain forensic integrity, calculate file hashes.
 
@@ -245,24 +246,6 @@ Record the hash in your report.
 ```bash
 adb uninstall com.viaforensics.android.aflogical
 ```
-
- **Safely disconnect your device.**
-
----
-
-##  Summary of Useful ADB Commands
-
-| Purpose | Command |
-|----------|----------|
-| Check ADB version | `adb version` |
-| List connected devices | `adb devices` |
-| Install APK | `adb install <path_to_apk>` |
-| List phone storage | `adb shell ls /sdcard/` |
-| Check AFLogical folder | `adb shell ls /sdcard/aflogical` |
-| Pull data to PC | `adb pull /sdcard/aflogical C:\ForensicLab\output` |
-| Uninstall AFLogical | `adb uninstall com.viaforensics.android.aflogical` |
-
----
 # Result  
 - Successfully connected the **Android device** to the forensic workstation using **ADB**.  
 - Installed and executed **AFLogical OSE** on the device for logical data extraction.  
