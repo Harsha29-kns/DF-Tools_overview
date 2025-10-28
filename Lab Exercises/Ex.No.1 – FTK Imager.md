@@ -1,5 +1,8 @@
 # Ex.No.1 — FTK Imager: Forensic Imaging Tool Overview
 
+# Aim
+
+To acquire and preserve digital evidence by capturing both volatile memory (RAM) and non-volatile memory (disk image) using FTK Imager, ensuring data integrity through hash verification for further forensic analysis.
 
 
 ---
