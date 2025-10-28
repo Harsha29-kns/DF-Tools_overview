@@ -1,6 +1,6 @@
 ##  Ex.No.9: Analyzing Suspicious Processes with Process Explorer 
 
-# Aim  
+## Aim  
 To analyze and identify suspicious or potentially malicious processes in a Windows system using **Process Explorer**, and to understand process behavior, resource usage, and system activity for forensic investigation and threat detection.
 
 
