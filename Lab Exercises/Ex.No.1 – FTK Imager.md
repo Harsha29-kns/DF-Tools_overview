@@ -6,6 +6,7 @@ To acquire and preserve digital evidence by capturing both volatile memory (RAM)
 
 
 ---
+## Procedure
 
 ## Volatile Memory (RAM)
 
