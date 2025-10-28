@@ -4,8 +4,9 @@
 To perform **digital forensic analysis** on a disk image using the **Sleuth Kit (TSK)** by examining file systems, recovering deleted files, analyzing metadata, and preserving evidence for investigation.
 
 ---
+## Procedure
 
-##  **Step 1: Installing Sleuth Kit**
+## **Step 1: Installing Sleuth Kit**
 
 1. **Download the Tool:**  
    - Head over to the official Sleuth Kit page or use this link:  
@@ -117,7 +118,7 @@ To uncover file history and access details, view the file’s metadata.
 .\istat.exe -o 63 "C:\Users\knsha\Downloads\4Dell Latitude CPi.E01" 119 > "C:\Users\knsha\Downloads\BOOTLOG_recovered.TXT" 
 ```
  
-<img width="600" alt="exp6 5" src="https://github.com/user-attachments/assets/b7a39fb7-e091-4e1f-939d-a7b5bcc579aa" />
+<img width="400" alt="exp6 5" src="https://github.com/user-attachments/assets/b7a39fb7-e091-4e1f-939d-a7b5bcc579aa" />
 
 
  *Displays file attributes such as MAC times (Modified, Accessed, Changed), size, and allocation info.*
