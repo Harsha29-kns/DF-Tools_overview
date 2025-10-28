@@ -1,9 +1,7 @@
 # Ex.No.7: Use AFLogical OSE to Extract Data from an Android Device
 
-**Description**
-
-**AFLogical OSE (Open Source Edition)** is a forensic tool used to perform **logical extraction** of data from Android devices — retrieving information like contacts, call logs, and SMS messages **without direct access to the full file system**.  
-It is part of the **Open Source Android Forensics** toolkit and often used in forensic investigations or academic labs.
+#  Aim  
+To extract logical data such as contacts, SMS, and call logs from an Android device using **AFLogical OSE** and analyze the collected evidence for forensic purposes.
 
 ---
 
@@ -265,8 +263,9 @@ adb uninstall com.viaforensics.android.aflogical
 | Uninstall AFLogical | `adb uninstall com.viaforensics.android.aflogical` |
 
 ---
-
-
-✨ **End of Experiment**
-
-You have successfully performed **logical extraction** from an Android device using **AFLogical OSE** and documented the forensic process completely.
+# Result  
+- Successfully connected the **Android device** to the forensic workstation using **ADB**.  
+- Installed and executed **AFLogical OSE** on the device for logical data extraction.  
+- Extracted essential data — **contacts**, **messages**, **call logs**, and **calendar entries** — and stored them as CSV files.  
+- Verified the integrity of extracted data using **SHA-256 hash values**.  
+- The experiment demonstrated how **AFLogical OSE** can perform effective logical data acquisition in mobile forensics.
