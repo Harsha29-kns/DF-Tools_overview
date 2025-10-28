@@ -1,9 +1,7 @@
-
-
 # Ex.No 5: Use Autopsy to Create a Case and Import Evidence  
 
-## Description  
-Autopsy is an open-source digital forensics platform used for analyzing and extracting data from digital devices. Below is a step-by-step guide to perform a basic forensic investigation using Autopsy.  
+## Aim 
+To create a new forensic case and import digital evidence using **Autopsy**, analyze artifacts, and generate a detailed forensic report.
 
 ---
 
@@ -73,7 +71,6 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 <br>
   <img width="1710" height="1077" alt="image" src= "https://github.com/user-attachments/assets/ce97330e-c9d7-4ea1-99e9-454cfa205b45" />
 <br>
-
 ## Report
 <img width="1710" height="1077" alt="image" src= "https://github.com/user-attachments/assets/d6e1ed93-9bf0-42a7-9337-d0e536c42ee7" />
 
@@ -81,4 +78,10 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 ### 7. Case Closure  
 - Close the case once the investigation is finished.  
-- Archive all data and reports securely, following your organization’s policies.  
+- Archive all data and reports securely, following your organization’s policies.
+
+## Result  
+- Successfully created a **new case** in **Autopsy** and imported the evidence file for analysis.  
+- Performed **file system analysis**, **keyword search**, **timeline**, and **hash analysis** to identify key digital artifacts.  
+- Generated a comprehensive **forensic report** summarizing evidence findings, user activity, and system events.  
+- Verified that **Autopsy** effectively supports end-to-end digital forensic investigations.
