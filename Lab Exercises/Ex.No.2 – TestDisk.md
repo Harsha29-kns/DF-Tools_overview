@@ -91,4 +91,10 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 - After recovery, close Recoverit.  
 - If you wrote a new partition table or recovered system files, **restart your computer**.
 
+## Result
+
+- Successfully recovered deleted and formatted files using **Wondershare Recoverit**.  
+- Both **Quick Scan** and **Deep Scan** modes worked effectively.  
+- Recovered files were saved safely and verified for integrity.
+
 
