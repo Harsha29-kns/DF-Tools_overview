@@ -4,14 +4,6 @@
 
 ---
 
-## Table of Contents
-- [Volatile Memory (RAM)](#volatile-memory-ram)
-- [Non-Volatile Memory (Disk Image)](#non-volatile-memory-disk-image)
-- [Notes](#notes)
-- [References](#references)
-
----
-
 ## Volatile Memory (RAM)
 
 Steps to capture RAM using FTK Imager:
@@ -119,15 +111,12 @@ Steps to capture RAM using FTK Imager:
 - FTK Imager shows **MD5** and **SHA1** for source & image  
 - Matching hashes confirm integrity.
 <img src="https://github.com/user-attachments/assets/739045f1-11bc-474a-9343-2e9aa19ec376" alt="Disk Imaging Animation" width="600">
----
-
-## Notes
-> Always use a **write-blocker**  
-> Hash verification ensures chain-of-custody  
-> Image fragmentation helps with large drives  
 
 ---
 
-## References
-- [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
-- FTK Imager Documentation
+## Result
+
+- Successfully captured **volatile memory (RAM)** using **FTK Imager** and stored the memory dump (`.mem` file) in the specified destination folder.  
+- Successfully created a **non-volatile memory (disk) image** of the target drive in **E01 (EnCase)** format.  
+- **MD5** and **SHA1 hash values** of the source and image matched, confirming **data integrity** and authenticity of the acquired evidence.  
+- The captured images can now be analyzed using forensic tools like **Autopsy**, **FTK Toolkit**, or **Volatility** for further investigation.
