@@ -7,15 +7,6 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 
 ---
 
-##  Installation
-| OS | Installation |
-|----|--------------|
-| Windows | Download from [Wondershare Recoverit Official Website](https://recoverit.wondershare.com/) |
-| macOS | Download from the official website |
-| Linux | Currently not supported |
-
----
-
 ## Procedure
 
 ### Step 1: Launch Recoverit
