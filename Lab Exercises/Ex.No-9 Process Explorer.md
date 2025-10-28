@@ -1,7 +1,8 @@
 ##  Ex.No.9: Analyzing Suspicious Processes with Process Explorer 
 
-**Overview**  
-**Process Explorer** is a powerful Windows tool that provides detailed insights into running processes. It helps monitor system activity, troubleshoot issues, and detect potentially malicious or unusual processes.
+# Aim  
+To analyze and identify suspicious or potentially malicious processes in a Windows system using **Process Explorer**, and to understand process behavior, resource usage, and system activity for forensic investigation and threat detection.
+
 
 ---
 
