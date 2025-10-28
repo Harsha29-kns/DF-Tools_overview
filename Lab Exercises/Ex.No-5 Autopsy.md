@@ -28,7 +28,6 @@ To create a new forensic case and import digital evidence using **Autopsy**, ana
 <img width="600" alt="image" src= "https://github.com/user-attachments/assets/c4954d91-0462-49ed-8db9-7d849cf1c612" />
 
 <br>
----
 
 ### 3. Adding a Data Source  
 - Select the type of data source (disk image, local disk, logical files, etc.).  
@@ -38,7 +37,7 @@ To create a new forensic case and import digital evidence using **Autopsy**, ana
 <br>
 <img width="600" alt="image" src= "https://github.com/user-attachments/assets/b26ef33a-eb70-458b-b5d2-5974838f9c07" />
 <br>
----
+
 
 ### 4. Initial Analysis and Overview  
 - Monitor the ingest progress displayed at the bottom of the screen.  
@@ -48,7 +47,6 @@ To create a new forensic case and import digital evidence using **Autopsy**, ana
 <img width="600" alt="image" src= "https://github.com/user-attachments/assets/ef7ee4a0-9732-402d-af13-bf76eced7662" />
 
 <br>
----
 
 ### 5. Detailed Analysis  
 - **Keyword Search**: Run searches with custom or pre-configured keywords.  
@@ -59,7 +57,6 @@ To create a new forensic case and import digital evidence using **Autopsy**, ana
 <img width="600" alt="image" src= "https://github.com/user-attachments/assets/43f33b47-70f0-42eb-b799-6caca0741e2e" />
 
   <br>
----
 
 ### 6. Reporting  
 - After completing the analysis, generate a report from the toolbar.  
@@ -76,7 +73,6 @@ To create a new forensic case and import digital evidence using **Autopsy**, ana
 
 <img width="600" alt="image" src= "https://github.com/user-attachments/assets/d6e1ed93-9bf0-42a7-9337-d0e536c42ee7" />
 
----
 
 ### 7. Case Closure  
 - Close the case once the investigation is finished.  
