@@ -5,7 +5,7 @@ This repository contains the lab exercises for the **Digital Forensics Laborator
 
 ---
 
-## 📋 List of Experiments
+## List of Experiments
 
 <a href="./Lab%20Exercises/Ex.No.1%20–%20FTK%20Imager.md" target="_blank">Ex.No.1 – FTK Imager</a>  
 <a href="./Lab%20Exercises/Ex.No.2%20–%20TestDisk.md" target="_blank">Ex.No.2 – TestDisk</a>  
