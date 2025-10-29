@@ -16,3 +16,5 @@ This repository contains the lab exercises for the **Digital Forensics Laborator
 <a href="./Lab%20Exercises/Ex.No-7%20AFLogical.md" target="_blank">📱 Ex.No.7 – AFLogical</a>  
 <a href="./Lab%20Exercises/Ex.No-8%20Stego.md" target="_blank">🖼️ Ex.No.8 – Steganography</a>  
 <a href="./Lab%20Exercises/Ex.No-9%20Process%20Explorer.md" target="_blank">⚙️ Ex.No.9 – Process Explorer</a>
+<a href="./Lab%20Exercises/Ex.No-10%20Ghidra.md" target="_blank">⚙️ Ex.No.10 – Ghidra</a>
+
