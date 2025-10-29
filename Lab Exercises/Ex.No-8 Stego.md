@@ -7,49 +7,7 @@
 To detect hidden data in image files using **StegExpose**, a steganography analysis tool.
 
 ---
-##  Prerequisites
-
-Before starting, ensure the following software and files are prepared:
-
-### Software Requirements
-
-1. **Java Development Kit (JDK 8 or higher)**
-   StegExpose is Java-based, so `java` and `javac` must be installed.
-
-   **Windows:**
-
-   ```bash
-   choco install openjdk
-   ```
-
-    Verify installation:
-
-   ```bash
-   java -version
-   javac -version
-   ```
-
-2. **Apache Commons Math Library**
-
-   * Required dependency: `commons-math3-3.1.1.jar`
-   *  Download from: `https://archive.apache.org/dist/commons/math/binaries/commons-math3-3.1.1-bin.zip`
-
-3. **StegExpose Source Code**
-
-   *  Clone or download from GitHub: `https://github.com/b3dk7/StegExpose`
-
-   ```bash
-   git clone https://github.com/b3dk7/StegExpose.git
-   ```
-
-###  Environment Setup
-
-Place all files in a single working directory (e.g., `C:\StegExpose\`) and navigate there using Command Prompt (Windows) or Terminal (Linux/macOS):
-
-```bash
-cd C:\StegExpose-master
-```
-
+## Procedure
 ---
 
 ##  Step 1 — Compile the Source Code
