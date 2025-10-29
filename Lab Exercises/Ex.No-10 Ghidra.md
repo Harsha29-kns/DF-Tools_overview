@@ -6,18 +6,7 @@
 To perform static analysis of a suspicious binary file using **Ghidra**, understand its internal structure, and identify possible indicators of malicious behavior through disassembly and decompilation.
 
 ---
-
-
-## Requirements
-Before starting, ensure you have:
-
-- **Ghidra** installed (requires Java Development Kit).  
-- A **virtualized sandbox** environment such as **VMware** or **VirtualBox** for safe malware handling.  
-- A **benign or controlled test binary** file to analyze (e.g., a harmless hex dump or test executable).
-
----
-
-## Detailed Procedure
+## Procedure
 
 ### Step 1 — Setting Up the Environment
 - Launch your **virtual machine** to create a secure workspace.  
