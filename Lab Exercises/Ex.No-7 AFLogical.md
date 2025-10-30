@@ -278,6 +278,6 @@ adb uninstall com.viaforensics.android.aflogical
 </tr>
 </table>
 
-# Result  
+## Result  
 - Successfully connected the Android device via ADB, used AFLogical OSE for logical data extraction (contacts, messages, call logs, calendar), exported data as CSV, verified integrity with SHA-256, and demonstrated effective mobile forensic acquisition.
 
