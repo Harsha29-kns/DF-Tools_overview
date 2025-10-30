@@ -77,9 +77,41 @@ To create a new forensic case and import digital evidence using **Autopsy**, ana
 ### 7. Case Closure  
 - Close the case once the investigation is finished.  
 - Archive all data and reports securely, following your organization’s policies.
+## Rubrics
+<table style="width:50%; border-collapse:collapse;" border="1">
+<tr>
+<th>Criteria</th>
+<th>Mark Allotted</th>
+<th>Mark Awarded</th>
+</tr>
+<tr>
+<td>1. GitHub Activity & Submission Regularity</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td>2. Application of Forensic Tools & Practical Execution</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td>3. Documentation & Reporting</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td>4. Engagement, Problem-Solving & Team Collaboration</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td><b>Total</b></td>
+<td style="text-align:center;"><b>10</b></td>
+<td style="text-align:center;"></td>
+</tr>
+</table>
+
 
 ## Result  
-- Successfully created a **new case** in **Autopsy** and imported the evidence file for analysis.  
-- Performed **file system analysis**, **keyword search**, **timeline**, and **hash analysis** to identify key digital artifacts.  
-- Generated a comprehensive **forensic report** summarizing evidence findings, user activity, and system events.  
-- Verified that **Autopsy** effectively supports end-to-end digital forensic investigations.
+- Successfully created a case in Autopsy, imported evidence, performed file system, keyword, timeline, and hash analysis, generated a comprehensive forensic report, and verified Autopsy’s effectiveness for end-to-end digital forensic investigations.
+
