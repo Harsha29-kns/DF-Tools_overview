@@ -76,16 +76,39 @@ A collection of harmless binaries used for demonstration:
 <img width="600" alt="exp10 9" src="https://github.com/user-attachments/assets/239d4407-8d3c-4aca-8c31-d6eddd3366f0" />
 
 ---
-
-## Report Format
-Use this structure to document your findings:
-
-1. **Overview:** Description of the sample and purpose of analysis.  
-2. **Disassembly Observations:** List of key functions and their interpreted purpose.  
-3. **Indicators of Compromise (IOCs):** Suspicious strings, network activity, or persistence behavior.  
-4. **Conclusion & Recommendations:** Mitigation steps or further analysis suggestions.
-
----
+## Rubrics
+<table style="width:50%; border-collapse:collapse;" border="1">
+<tr>
+<th>Criteria</th>
+<th>Mark Allotted</th>
+<th>Mark Awarded</th>
+</tr>
+<tr>
+<td>1. GitHub Activity & Submission Regularity</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td>2. Application of Forensic Tools & Practical Execution</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td>3. Documentation & Reporting</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td>4. Engagement, Problem-Solving & Team Collaboration</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td><b>Total</b></td>
+<td style="text-align:center;"><b>10</b></td>
+<td style="text-align:center;"></td>
+</tr>
+</table>
 
 ## Result
 The analysis was successfully completed using **Ghidra**.  
