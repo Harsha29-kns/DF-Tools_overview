@@ -1,4 +1,4 @@
-# Ex.No.4   MHA (Mail Header Analyzer)
+# Ex.No.4   Analyze email headers and detect email spoofing using MHA
 
 ## Aim
 - The aim is to use a Mail Header Analyzer (MHA) to trace an email's origin and verify its authenticity by examining its header for signs of spoofing.
