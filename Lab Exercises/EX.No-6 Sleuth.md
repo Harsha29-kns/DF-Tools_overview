@@ -1,4 +1,4 @@
-#  **Experiment No. 06 — Digital Forensic Analysis using Sleuth Kit (TSK)**
+#  **Ex.No. 06 — Digital Forensic Analysis using Sleuth Kit**
 
 ##  Aim
 To perform **digital forensic analysis** on a disk image using the **Sleuth Kit (TSK)** by examining file systems, recovering deleted files, analyzing metadata, and preserving evidence for investigation.
