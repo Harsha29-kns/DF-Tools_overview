@@ -114,13 +114,48 @@ Steps to capture RAM using FTK Imager:
 ### Step 6: Completion and Hash Verification
 - FTK Imager shows **MD5** and **SHA1** for source & image  
 - Matching hashes confirm integrity.
-<img src="https://github.com/user-attachments/assets/739045f1-11bc-474a-9343-2e9aa19ec376" alt="Disk Imaging Animation" width="600">
+<img src="https://github.com/user-attachments/assets/739045f1-11bc-474a-9343-2e9aa19ec376" alt="Disk Imaging Animation" width="400">
 
----
+## Rubrics
+<div style="display:flex; justify-content:center;">
+<table style="width:50%; border-collapse:collapse; text-align:center;" border="1">
+<tr>
+<th>Criteria</th>
+<th>Mark Allotted</th>
+<th>Mark Awarded</th>
+</tr>
+<tr>
+<td>1. GitHub Activity & Submission Regularity</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Application of Forensic Tools & Practical Execution</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Documentation & Reporting</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Engagement, Problem-Solving & Team Collaboration</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td><b>Total</b></td>
+<td><b>10</b></td>
+<td></td>
+</tr>
+</table>
+</div>
+
+
 
 ## Result
 
-- Successfully captured **volatile memory (RAM)** using **FTK Imager** and stored the memory dump (`.mem` file) in the specified destination folder.  
-- Successfully created a **non-volatile memory (disk) image** of the target drive in **E01 (EnCase)** format.  
-- **MD5** and **SHA1 hash values** of the source and image matched, confirming **data integrity** and authenticity of the acquired evidence.  
-- The captured images can now be analyzed using forensic tools like **Autopsy**, **FTK Toolkit**, or **Volatility** for further investigation.
+Successfully captured RAM and disk images using FTK Imager, verified integrity with matching MD5 & SHA1 hashes.  
+The acquired forensic images are ready for analysis using tools like Autopsy, FTK Toolkit, or Volatility.
+
