@@ -69,7 +69,6 @@ orignal message:
 
 <br>
 <br>
----
 
 ## Rubrics
 <table style="width:50%; border-collapse:collapse;" border="1">
