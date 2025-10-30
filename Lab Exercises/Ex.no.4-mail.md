@@ -57,6 +57,7 @@ orignal message:
 - Failures shake; passes flash green briefly.
 
 ---
+<br>
 
 ### Step 4: Investigate Email Path and Records
 - Check why SPF passes and trace the relay path (animated email journey-style flowchart).
@@ -68,9 +69,6 @@ orignal message:
 
 <br>
 <br>
-<br>
-<br>
-
 ---
 ## Rubrics
 <table style="width:50%; border-collapse:collapse;" border="1">
