@@ -155,7 +155,6 @@ Steps to capture RAM using FTK Imager:
 
 
 ## Result
-
-Successfully captured RAM and disk images using FTK Imager, verified integrity with matching MD5 & SHA1 hashes.  
+- Successfully captured RAM and disk images using FTK Imager, verified integrity with matching MD5 & SHA1 hashes.  
 The acquired forensic images are ready for analysis using tools like Autopsy, FTK Toolkit, or Volatility.
 
