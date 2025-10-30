@@ -81,9 +81,50 @@ To use **Wondershare Recoverit** step by step to recover lost, deleted, or corru
 ### Step 7: Exit
 - After recovery, close Recoverit.  
 - If you wrote a new partition table or recovered system files, **restart your computer**.
+  <br>
+  <br>
+  <br>
+  <br><br>
+  
+  <br>
+  
+## Rubrics
+<div style="display:flex; justify-content:center;">
+<table style="width:50%; border-collapse:collapse; text-align:center;" border="1">
+<tr>
+<th>Criteria</th>
+<th>Mark Allotted</th>
+<th>Mark Awarded</th>
+</tr>
+<tr>
+<td>1. GitHub Activity & Submission Regularity</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Application of Forensic Tools & Practical Execution</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Documentation & Reporting</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Engagement, Problem-Solving & Team Collaboration</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td><b>Total</b></td>
+<td><b>10</b></td>
+<td></td>
+</tr>
+</table>
+</div>
 
 ## Result
-
 - Successfully recovered deleted and formatted files using **Wondershare Recoverit**.  
 - Both **Quick Scan** and **Deep Scan** modes worked effectively.  
 - Recovered files were saved safely and verified for integrity.
