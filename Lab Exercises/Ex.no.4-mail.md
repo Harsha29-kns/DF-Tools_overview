@@ -50,8 +50,9 @@ orignal message:
 
 <br>
 <br>
+<br>
 
-#### Review the Overall Delivery Summary
+##  Review the Overall Delivery Summary
 - DMARC, SPF, and DKIM summaries show compliance or error with animated highlights.
 - Failures shake; passes flash green briefly.
 
@@ -67,11 +68,46 @@ orignal message:
 
 <br>
 <br>
+<br>
+<br> <br>
+<br>
 
 ---
-Result
+## Rubrics
+<table style="width:50%; border-collapse:collapse;" border="1">
+<tr>
+<th>Criteria</th>
+<th>Mark Allotted</th>
+<th>Mark Awarded</th>
+</tr>
+<tr>
+<td>1. GitHub Activity & Submission Regularity</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td>2. Application of Forensic Tools & Practical Execution</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td>3. Documentation & Reporting</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td>4. Engagement, Problem-Solving & Team Collaboration</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr>
+<td><b>Total</b></td>
+<td style="text-align:center;"><b>10</b></td>
+<td style="text-align:center;"></td>
+</tr>
+</table>
 
-- Successfully analyzed the **email header** using **xheaders.com**.  
-- Verified the authenticity of the email by checking **SPF**, **DKIM**, and **DMARC** records — all of which **passed**.  
-- Traced the email route from `olympus.greatlearning.in` through SendGrid to Google’s mail servers.  
-- Confirmed that the message was legitimate and **not spoofed or altered** during transmission.
+
+## Result
+- Successfully analyzed the email header using xheaders.com, verified SPF/DKIM/DMARC authenticity, traced routing from olympus.greatlearning.in via SendGrid to Google servers, and confirmed the email was genuine and not spoofed or altered.
+
