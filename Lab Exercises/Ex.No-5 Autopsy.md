@@ -46,26 +46,20 @@ To create a new forensic case and import digital evidence using **Autopsy**, ana
 <br>
 <img width="600" alt="image" src= "https://github.com/user-attachments/assets/ef7ee4a0-9732-402d-af13-bf76eced7662" />
 
-<br>
+<br> <br> <br>
 
 ### 5. Detailed Analysis  
 - **Keyword Search**: Run searches with custom or pre-configured keywords.  
 - **File Analysis**: Browse files under File Types or File System, and export files if needed.  
 - **Timeline Analysis**: Visualize system events and user activities using timestamps.  
 - **Hash Analysis**: Compare file hashes against known databases to detect suspicious or trusted files.
-  <br>
 <img width="600" alt="image" src= "https://github.com/user-attachments/assets/43f33b47-70f0-42eb-b799-6caca0741e2e" />
-
-  <br>
 
 ### 6. Reporting  
 - After completing the analysis, generate a report from the toolbar.  
 - Reports can be exported in multiple formats (HTML, Excel, PDF, etc.).
-  <img width="600" alt="image" src= "https://github.com/user-attachments/assets/6bba42a7-c2c8-45e0-9493-b5061eec7ce1" />
-- The report will include details of findings, keyword matches, file artifacts, and timelines.
-<br>
-  <img width="600" alt="image" src= "https://github.com/user-attachments/assets/ce97330e-c9d7-4ea1-99e9-454cfa205b45" />
-<br>
+<img width="600" alt="image" src= "https://github.com/user-attachments/assets/6bba42a7-c2c8-45e0-9493-b5061eec7ce1" />
+<img width="600" alt="image" src= "https://github.com/user-attachments/assets/ce97330e-c9d7-4ea1-99e9-454cfa205b45" />
 
 
 <img width="600" alt="image" src= "https://github.com/user-attachments/assets/d6e1ed93-9bf0-42a7-9337-d0e536c42ee7" />
