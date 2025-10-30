@@ -61,10 +61,7 @@ To create a new forensic case and import digital evidence using **Autopsy**, ana
 ### 6. Reporting  
 - After completing the analysis, generate a report from the toolbar.  
 - Reports can be exported in multiple formats (HTML, Excel, PDF, etc.).
-    <br>
   <img width="600" alt="image" src= "https://github.com/user-attachments/assets/6bba42a7-c2c8-45e0-9493-b5061eec7ce1" />
-
-   <br>
 - The report will include details of findings, keyword matches, file artifacts, and timelines.
 <br>
   <img width="600" alt="image" src= "https://github.com/user-attachments/assets/ce97330e-c9d7-4ea1-99e9-454cfa205b45" />
