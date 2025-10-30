@@ -69,7 +69,6 @@ orignal message:
 <br>
 <br>
 <br>
-<br> <br>
 <br>
 
 ---
